@@ -6,7 +6,7 @@
   2. Sanghyun Lee
   3. Junyoung Rhee
 
-#### [Video & PPT]()
+#### [Video](https://www.youtube.com/watch?v=_2qmsbfT5gk) [PPT](https://github.com/TikaToka/CapstoneFall/tree/main/presentation)
 
 ***
 #### Idea originated from Assist. Hojae Han @ [Data Intelligence Lab](http://dilab.yonsei.ac.kr/) (Currently moved to SNU)
