@@ -17,7 +17,7 @@
 
 ***
 
-### This Repository only contains Presentation and Train codes. Full Codes are Segmented and could not assemble.
+### This Repository only contains what I've done.
 
 ***
 
