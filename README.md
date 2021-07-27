@@ -17,7 +17,7 @@
 
 ***
 
-### This Repository only contains what I've done.
+### This Repository doesn't contains full sourcess. Only contains what I've done.
 
 ***
 
