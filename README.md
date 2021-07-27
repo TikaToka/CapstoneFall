@@ -2,9 +2,9 @@
 ## "Question Answering using Queestion Generation"
 
 ### Team: '**Information Retrievers**'
-  1. Joochan Kim
-  2. Sanghyun Lee
-  3. Junyoung Rhee
+  1. Joochan Kim(Idea, Train model, Test, Presentation)
+  2. Sanghyun Lee(Idea, Code, Presentaion)
+  3. Junyoung Rhee(Idea, Train model, Test, Presentation)
 
 #### [Video](https://www.youtube.com/watch?v=_2qmsbfT5gk) [PPT](https://github.com/TikaToka/CapstoneFall/tree/main/presentation)
 
@@ -15,3 +15,4 @@
 #### Question Answering task is vulnerable to Adversarial Attack and QA model has a possibility to learn unnecessary dependency between Question and Answer. To solve this problem, we propose a new approach to imporve Question Answering model using Question Generation.
 
 ***
+### This Repository only contains Presentation and Train codes. Full Codes are Segmented and could not assemble.
