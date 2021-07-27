@@ -3,7 +3,7 @@
 
 ### Team: '**Information Retrievers**'
   1. Joochan Kim(Idea, Train model, Test, Presentation)
-  2. Sanghyun Lee(Idea, Code, Presentaion)
+  2. Sanghyun Lee(Idea, Code, Test, Presentaion)
   3. Junyoung Rhee(Idea, Train model, Test, Presentation)
 
 #### [Video](https://www.youtube.com/watch?v=_2qmsbfT5gk) [PPT](https://github.com/TikaToka/CapstoneFall/tree/main/presentation)
