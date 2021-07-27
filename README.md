@@ -16,3 +16,6 @@
 
 ***
 ### This Repository only contains Presentation and Train codes. Full Codes are Segmented and could not assemble.
+***
+## Result
+![Result](https://github.com/TikaToka/CapstoneFall/blob/main/presentation/result/Result.PNG)
